@@ -1,0 +1,6 @@
+pymupdf
+openai
+tavily-python
+sentence-transformers
+scikit-learn
+python-dotenv
